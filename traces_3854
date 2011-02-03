@@ -1,0 +1,38 @@
+168 816 0 0 0 0 PS/2 keyboard/mouse/touchpad interrupt
+1.57143 5 0 0 0 0 [acpi] <interrupt>
+1 2 0 0 0 0 [HDA Intel] <interrupt>
+9 18.5556 0 0 0 0 [ahci] <interrupt>
+2 6.71429 0 0 0 0 [eth2] <interrupt>
+61 108.222 0 0 0 0 [i915] <interrupt>
+10.6 35.2 0 0 0 0 [Rescheduling interrupts] <kernel IPI>
+0.5 25.5 0 0 0 0 [TLB shootdowns] <kernel IPI>
+293.444 311 0 0 0 1200 amarok
+17 18 0 0 0 243 pulseaudio
+343.857 521.667 0 0 0 0 [kernel scheduler] Load balancing tick
+145 149 0 0 6 911 firefox-bin
+109 219 0 0 0 8.55556 plugin-containe
+1.44444 5 0 0 0 5 gnome-terminal
+18.8889 20 0 0 0 160 ubuntuone-syncd
+1.88889 2 0 0 0 6 [kernel core] inc_rt_group (sched_rt_period_timer)
+98.6667 105 0 0 0.111111 9486 java
+10 14.5556 0 0 2.66667 1142 compiz
+8.77778 10 0 0 10.7778 5535 Xorg
+1.88889 2 0 0 0 2 gvfs-afc-volume
+8.66667 9 0 0 0 13 syndaemon
+3.88889 4 0 0 5 1284 gnome-system-mo
+2 5 0 0 0 0 [kernel core] add_timer (wl_timer)
+1.88889 2 0 0 0 135 clock-applet
+3 6 0 0 0 0 GoogleTalkPlugi
+0 0 0 0 0 48 gnome-settings-
+1.88889 2 0 0 0 13 cpufreq-applet
+0 0 0 0 0 2796 nautilus
+0 0 0 0 0 18 gnome-panel
+2.66667 4.28571 0 0 0 0 [kernel core] hrtimer_start (tick_sched_timer)
+0 0 0 0 0 1 NetworkManager
+0 0 0 0 0 2 hald
+0.888889 1 0 0 0 11 hald-addon-stor
+0.888889 1 0 0 0 43 multiload-apple
+0 0 0 0 0 5 kded4
+0 0 0 0 0 2 kglobalaccel
+0 0 0 0 0 7 gconfd-2
+0 0 0 0 0 1 gnome-power-man

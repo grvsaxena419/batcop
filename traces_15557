@@ -1,0 +1,50 @@
+-2.14748e+09 1 -2.14748e+09 0 0 0 PS/2 keyboard/mouse/touchpad interrupt
+-2.14748e+09 0 -2.14748e+09 0 0 0 [rtc0] <interrupt>
+-2.14748e+09 6 -2.14748e+09 0 0 0 [acpi] <interrupt>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [ehci_hcd:usb1] <interrupt>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [eth1] <interrupt>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [ehci_hcd:usb2] <interrupt>
+-2.14748e+09 1 -2.14748e+09 0 0 0 [HDA Intel] <interrupt>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [eth2] <interrupt>
+-2.14748e+09 9 -2.14748e+09 0 0 0 [ahci] <interrupt>
+-2.14748e+09 18 -2.14748e+09 0 0 0 [i915@pci:0000:00:02.0] <interrupt>
+-2.14748e+09 30 -2.14748e+09 0 0 0 [Rescheduling interrupts] <kernel IPI>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [Function call interrupts] <kernel IPI>
+-2.14748e+09 1 -2.14748e+09 0 0 0 [TLB shootdowns] <kernel IPI>
+-2.14748e+09 172 -2.14748e+09 0 0 0 [kernel scheduler] Load balancing tick
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 bash
+-2.14748e+09 124 -2.14748e+09 0 -9.22337e+18 4 amarok
+-2.14748e+09 62 -2.14748e+09 0 -9.22337e+18 1 firefox-bin
+-2.14748e+09 116 -2.14748e+09 0 -9.22337e+18 0 plugin-containe
+-2.14748e+09 72 -2.14748e+09 0 -9.22337e+18 0 acroread
+-2.14748e+09 62 -2.14748e+09 0 -9.22337e+18 0 java
+-2.14748e+09 2 -2.14748e+09 1 -9.22337e+18 0 gnome-terminal
+-2.14748e+09 4 -2.14748e+09 0 -9.22337e+18 4 Xorg
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 1 compiz
+-2.14748e+09 5 -2.14748e+09 0 -9.22337e+18 0 syndaemon
+-2.14748e+09 11 -2.14748e+09 0 -9.22337e+18 0 ubuntuone-syncd
+-2.14748e+09 10 -2.14748e+09 0 -9.22337e+18 0 geany
+-2.14748e+09 10 -2.14748e+09 0 -9.22337e+18 0 pulseaudio
+-2.14748e+09 1 -2.14748e+09 0 -9.22337e+18 0 gvfs-afc-volume
+-2.14748e+09 3 -2.14748e+09 0 0 0 [kernel core] hrtimer_start (tick_sched_timer)
+-2.14748e+09 2 -2.14748e+09 0 0 0 [kernel core] clocksource_watchdog (clocksource_watchdog)
+-2.14748e+09 2 -2.14748e+09 0 0 0 [kernel core] add_timer (wl_timer)
+-2.14748e+09 1 -2.14748e+09 0 -9.22337e+18 0 clock-applet
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 hald-addon-stor
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 NetworkManager
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 upowerd
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 gpg-agent
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 multiload-apple
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 rtkit-daemon
+-2.14748e+09 0 -2.14748e+09 0 0 0 [kernel core] inet_twsk_schedule (inet_twdr_hangman)
+-2.14748e+09 4 -2.14748e+09 0 -9.22337e+18 0 GoogleTalkPlugi
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 [kernel core] inc_rt_group (sched_rt_period_timer)
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 gnome-settings-
+-2.14748e+09 1 -2.14748e+09 0 -9.22337e+18 0 cpufreq-applet
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 indicator-apple
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 gnome-power-man
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 kglobalaccel
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 gnome-panel
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 kded4
+-2.14748e+09 0 -2.14748e+09 6.45834e-308 -9.22337e+18 2.1356e-309 ssh-agent
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 nautilus
