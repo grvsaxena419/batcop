@@ -1,0 +1,33 @@
+373 893.167 0 0 0 0 PS/2 keyboard/mouse/touchpad interrupt
+0.571429 2.66667 0 0 0 0 [acpi] <interrupt>
+5 10 0 0 0 0 [ehci_hcd:usb1] <interrupt>
+1 2 0 0 0 0 [HDA Intel] <interrupt>
+0.5 3.75 0 0 0 0 [eth2] <interrupt>
+9 19.7778 0 0 0 0 [ahci] <interrupt>
+32.7143 115.667 0 0 0 0 [i915@pci:0000:00:02.0] <interrupt>
+11.3333 51.25 0 0 0 0 [Rescheduling interrupts] <kernel IPI>
+12.1111 279 0 0 0 0 [TLB shootdowns] <kernel IPI>
+297.4 495.6 0 0 0 0 [kernel scheduler] Load balancing tick
+108 217.111 0 0 0 0.444444 plugin-containe
+124 248 1 1 6 6.11111 amarok
+215.833 384.25 0 0 8.83333 9.5 java
+2 4 0 0 0 0 [kernel core] clocksource_watchdog (clocksource_watchdog)
+0.125 2.5 0 0 0 0 gnome-terminal
+57 115.222 0 0 1 1.55556 firefox-bin
+10 20 0 0 0 0 pulseaudio
+3 5.77778 0 0 0 0 acroread
+5.14286 8.66667 0 0 1.33333 2.57143 Xorg
+4 9.88889 0 0 0 0 syndaemon
+10 19.8889 0 0 0 0 ubuntuone-syncd
+10 20 0 0 0 0 geany
+1 2 0 0 0 0 gvfs-afc-volume
+3 6 0 0 0 0 GoogleTalkPlugi
+0 1 0 0 0 0 multiload-apple
+1 2 0 0 0 0 clock-applet
+0 1 0 0 0 0 udisks-daemon
+3 6 0 0 0 0 [kernel core] timer_action (ehci_watchdog)
+7.25 10.5 0 0 0 0 [kernel core] hrtimer_start (tick_sched_timer)
+2 5 0 0 0 0 [kernel core] add_timer (wl_timer)
+1 2 0 0 0 0 cpufreq-applet
+1 2 0 0 0 0 hald-addon-stor
+4.5 17.5 0 0 1.5 1.75 compiz

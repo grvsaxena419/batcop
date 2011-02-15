@@ -998,12 +998,11 @@ extern "C" {
             fd_set rfds;
             struct timeval tv;
             int key = 0;
-            char buf[1024];
+            char buf;
             int i = 0;
             double c0 = 0;
             char *c;
-
-            //close(0);
+            
             FD_ZERO(&rfds);
             FD_SET(0, &rfds);
             tv.tv_sec = ticktime;
@@ -1011,14 +1010,12 @@ extern "C" {
             do_proc_irq();
             start_timerstats();
 
-            //fprintf(logfile, "\n select call ticktime= %d", tv.tv_sec);
             key = select(1, &rfds, NULL, NULL, &tv);
             
             if (key && tv.tv_sec) {
-                ticktime = ticktime - tv.tv_sec - tv.tv_usec/1000000.0;
-                fseek(stdin,1,SEEK_END);
-                fread(buf,1,1,stdin);
-                //fprintf(logfile, "\n ticktime= %f", ticktime);
+                ticktime = ticktime - tv.tv_sec - tv.tv_usec/1000000.0; // same as before still this will reduce the ticktime after each keyboard interrupt
+                fseek(stdin,1,SEEK_END); // read the last charachter only even if user entered more than one 
+                fread(&buf,1,1,stdin); // consume the input so that the next select call does not return immediately                 
             }
 
 

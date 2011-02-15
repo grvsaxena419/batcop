@@ -1,0 +1,50 @@
+-2.14748e+09 396 -2.14748e+09 0 0 0 PS/2 keyboard/mouse/touchpad interrupt
+-2.14748e+09 0 -2.14748e+09 0 0 0 [rtc0] <interrupt>
+-2.14748e+09 6 -2.14748e+09 0 0 0 [acpi] <interrupt>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [ehci_hcd:usb1] <interrupt>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [ehci_hcd:usb2] <interrupt>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [HDA Intel] <interrupt>
+-2.14748e+09 9 -2.14748e+09 0 0 0 [ahci] <interrupt>
+-2.14748e+09 1 -2.14748e+09 0 0 0 [eth0] <interrupt>
+-2.14748e+09 28 -2.14748e+09 0 0 0 [i915] <interrupt>
+-2.14748e+09 3 -2.14748e+09 0 0 0 [Rescheduling interrupts] <kernel IPI>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [Function call interrupts] <kernel IPI>
+-2.14748e+09 0 -2.14748e+09 0 0 0 [TLB shootdowns] <kernel IPI>
+-2.14748e+09 2 -2.14748e+09 0 -9.22337e+18 0 multiload-apple
+-2.14748e+09 252 -2.14748e+09 0 0 0 [kernel scheduler] Load balancing tick
+-2.14748e+09 110 -2.14748e+09 0 -9.22337e+18 2 firefox-bin
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 events/0
+-2.14748e+09 29 -2.14748e+09 0 -9.22337e+18 14 ggl-gtk
+-2.14748e+09 119 -2.14748e+09 0 -9.22337e+18 1 plugin-containe
+-2.14748e+09 3 -2.14748e+09 0 -9.22337e+18 0 gnome-terminal
+-2.14748e+09 5 -2.14748e+09 0 -9.22337e+18 0 syndaemon
+-2.14748e+09 15 -2.14748e+09 0 -9.22337e+18 1 compiz
+-2.14748e+09 5 -2.14748e+09 0 -9.22337e+18 0 gnome-do
+-2.14748e+09 11 -2.14748e+09 0 -9.22337e+18 0 geany
+-2.14748e+09 1 -2.14748e+09 0 -9.22337e+18 6 clock-applet
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 hald-addon-stor
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 hald
+-2.14748e+09 2 -2.14748e+09 0 -9.22337e+18 0 mysqld
+-2.14748e+09 5 -2.14748e+09 0 0 0 [kernel core] hrtimer_start (tick_sched_timer)
+-2.14748e+09 0 -2.14748e+09 0 0 0 [kernel core] ironlake_irq_handler (i915_hangcheck_elapsed)
+-2.14748e+09 2 -2.14748e+09 0 0 0 [kernel core] clocksource_watchdog (clocksource_watchdog)
+-2.14748e+09 5 -2.14748e+09 0 -9.22337e+18 4 Xorg
+-2.14748e+09 3 -2.14748e+09 0 -9.22337e+18 0 GoogleTalkPlugi
+-2.14748e+09 2 -2.14748e+09 0 0 0 [kernel core] add_timer (wl_timer)
+-2.14748e+09 1 -2.14748e+09 0 -9.22337e+18 0 cpufreq-applet
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 indicator-apple
+-2.14748e+09 5 -2.14748e+09 0 -9.22337e+18 0 gnome-panel
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 [kernel core] inc_rt_group (sched_rt_period_timer)
+-2.14748e+09 1 -2.14748e+09 0 -9.22337e+18 0 gvfs-afc-volume
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 irqbalance
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 gnome-settings-
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 nautilus
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 update-notifier
+-2.14748e+09 0 -2.14748e+09 0 0 0 [kernel core] dev_watchdog (dev_watchdog)
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 NetworkManager
+-2.14748e+09 0 -2.14748e+09 0 0 0 [kernel core] cfq_arm_slice_timer (cfq_idle_slice_timer)
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 rtkit-daemon
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 2.07166e-308 events/2
+-2.14748e+09 0 -2.14748e+09 0 -9.22337e+18 0 events/1
+-2.14748e+09 7.13337e-310 -2.14748e+09 0 0 0 [kernel core] rif_check_expire (rif_check_expire)
+-2.14748e+09 2.07641e-308 -2.14748e+09 7.30904e-315 0 0 [kernel core] mcheck_timer (mcheck_timer)
